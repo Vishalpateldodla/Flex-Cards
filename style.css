@@ -1,0 +1,30 @@
+.container-fluid{
+    position: sticky;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+
+}
+.nav-branding{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+.bn{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border-color: white;
+    border-radius: 8px;
+    margin: 10px;
+}
+.nav-menu{
+    display: flex;
+}
+.flexcard{
+    padding-top: 5px;
+    padding-left: 15px;
+}
